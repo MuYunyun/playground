@@ -1,0 +1,28 @@
+body,
+html,
+p,
+ul,
+li,
+h1,
+h2,
+h3 {
+  padding: 0;
+  margin: 0;
+}
+
+body,
+html {
+  height: 100%;
+  font-size: 12px;
+  font-family: Avenir Next, PingFang SC, Hiragino Sans GB, Droid Sans Fallback, Microsoft YaHei, sans-serif;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
